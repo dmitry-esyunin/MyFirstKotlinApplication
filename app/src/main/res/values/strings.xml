@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">MyFirstKotlinApplication</string>
-    <string name="textView1">textView1</string>
-    <string name="textView2">textView2</string>
-    <string name="Button">Button</string>
+    <string name="app_name">KotlinApp</string>
+
+    <string name="temperature_label">Температура</string>
+    <string name="feels_like_label">Ощущается как</string>
+    <string name="city_coordinates">lt/ln: %s, %s"</string>
+    <string name="error">Error</string>
+    <string name="reload">Reload</string>
 </resources>
